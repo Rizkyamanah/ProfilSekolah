@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void eskul(View view) {
-        Intent intent = new Intent(MainActivity.this, eskulActivity.class);
+        Intent intent = new Intent(MainActivity.this, EkskulActivity.class);
         startActivity(intent);
     }
 
