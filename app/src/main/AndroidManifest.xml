@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProfilSekolah">
-        <activity android:name=".AlbumpmrActivity"></activity>
+        <activity android:name=".Buku9Activity"></activity>
+        <activity android:name=".Buku8Activity" />
+        <activity android:name=".Buku7Activity" />
+        <activity android:name=".AlbumpmrActivity" />
         <activity android:name=".AlbumpramukaActivity" />
         <activity android:name=".AlbumhutriActivity" />
         <activity android:name=".FutsalActivity" />

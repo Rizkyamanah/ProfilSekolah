@@ -52,4 +52,6 @@ public class EkskulActivity extends AppCompatActivity {
         Intent intent = new Intent(EkskulActivity.this, FutsalActivity.class);
         startActivity(intent);
     }
+
+
 }
