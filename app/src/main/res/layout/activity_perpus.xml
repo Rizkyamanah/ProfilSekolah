@@ -63,7 +63,7 @@
                             android:columnOrderPreserved="false">
                             <!--                            PEMBUKA MENU1-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="buku8"
+                                android:onClick="buku7"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
@@ -104,7 +104,7 @@
                             <!--                            PENUTUP MENU1-->
                             <!--                            PEMBUKA MENU2-->
                             <androidx.cardview.widget.CardView
-                                android:onClick="buku7"
+                                android:onClick="buku8"
                                 android:layout_width="150dp"
                                 android:layout_height="150dp"
                                 android:layout_rowWeight="1"
